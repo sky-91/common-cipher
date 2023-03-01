@@ -1,0 +1,17 @@
+{
+  "groups": [],
+  "hints": [],
+  "properties": [
+    {
+      "name": "encrypt.log.info.print",
+      "type": "java.lang.Boolean",
+      "defaultValue": "false",
+      "description": "print cipher log"
+    },
+    {
+      "name": "hard.cipher.service",
+      "type": "java.lang.String",
+      "description": "choose which cipher method to use"
+    }
+  ]
+}
