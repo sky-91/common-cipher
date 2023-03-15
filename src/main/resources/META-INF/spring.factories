@@ -1,1 +1,2 @@
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.example.commoncipher.config.EnDecryptServiceConfig
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.example.commoncipher.config.EnDecryptServiceConfig,\
+com.example.commoncipher.config.OperatorAutoConfiguration
